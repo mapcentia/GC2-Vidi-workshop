@@ -3,6 +3,9 @@ Before you can start this workshop you'll need access to a GC2/Vidi installation
 
 You can use: [swarm.gc2.io](https://swarm.gc2.io)
 
-For this workshop we've compiled some data you can use in the exercises: Download zip-file
+- Click "Create New Account"
+- Fill in fields. You can type a dummy email address
+- Click "Create Account"
+- Click "Create New database"
 
- 
+And you're ready to upload data.

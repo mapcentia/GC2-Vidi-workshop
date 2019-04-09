@@ -1,5 +1,5 @@
-# 03 Upload files
-In this exercise you will learn to import files from your PC.
+# 03 Upload vector files
+In this exercise you will learn to vector import files from your PC.
 
 Prerequisites: Some geo-spatial files and a browser.
 
