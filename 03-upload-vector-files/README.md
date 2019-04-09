@@ -6,7 +6,7 @@ Prerequisites: Some geo-spatial files and a browser.
 You can open the Upload dialog from both the Map and Database tab:
 
 ### From the Map tab:
-<div>![Upload1](https://media.screensteps.com/image_assets/assets/001/401/507/original/59973e2a-c142-4672-b10a-3e735efdb641.png)</div>
+![Upload1](https://media.screensteps.com/image_assets/assets/001/401/507/original/59973e2a-c142-4672-b10a-3e735efdb641.png)
 
 ### From the database tab:
 ![Upload2](https://media.screensteps.com/image_assets/assets/001/401/505/original/30dccc80-ae6c-4d57-9e5c-055aadab2016.png)
