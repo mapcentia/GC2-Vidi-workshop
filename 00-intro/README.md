@@ -25,3 +25,5 @@ municipality.zip (ESRI Shape file)
 Raster files:  
 SIMRAIN_1km_6320_550.tif  
 SIMRAIN_1km_6320_551.tif
+
+All files are projected in ETRS89 / UTM zone 32N with EPSG:25832     
