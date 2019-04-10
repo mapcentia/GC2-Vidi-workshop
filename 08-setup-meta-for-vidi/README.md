@@ -20,7 +20,7 @@ When a layer in the layer grid is selected, the structure of the table is shown 
 3. Type: Show the data type the column has. Can not be changed.
 4. Allow null: Allow the special value NULL in the field.
 5. Alias: An alias for the column. Displayed when click-info queries is made in the Viewer.
-6. Queryable: Should the column appear in  click-info queries in the Viewer? The starting point is that all columns appear. When 8. changes are made to these properties, only those that are checked off are displayed.
+6. Queryable: Should the column appear in click-info queries in the Viewer? The starting point is that all columns appear. When changes are made to these properties, only those that are checked off are displayed.
 7. Show in mouse over: Instruction to Vidi
 8. Searchable: Instruction to Vidi
 9. Enable filtering: Deprecated
