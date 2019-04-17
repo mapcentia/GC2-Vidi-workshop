@@ -19,7 +19,7 @@ Vector files:
 Windmill.gml (point)  
 Train_station.gml (point)  
 Railroad.gml (linestring)  
-City_center.gml (polygon)
+City_center.gml (polygon)   
 municipality.zip (ESRI Shape file)
 
 Raster files:  
